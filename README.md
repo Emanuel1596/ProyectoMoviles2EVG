@@ -87,6 +87,9 @@ View Binding sirve para acceder a los elementos del XML de forma más segura.
 
 Antes se usaba mucho findViewById, pero con View Binding el código queda más limpio y se evitan errores al buscar vistas.
 
+## ¿Pantallazos?
+
+No se si fue algo mio, pero al inicio daba pantallazos, pero si funciona, se lo prometo
 
 ## FIN
 
